@@ -26,5 +26,9 @@ It can be found on kaggle - "https://www.kaggle.com/datasets/piterfm/paris-2024-
 
 ## Work 🎯
 
-  ![Screen Recording 2024-09-08 004920](https://github.com/user-attachments/assets/34989f41-2a29-461c-9983-a228d450554e)
+
+
+https://github.com/user-attachments/assets/7320647c-7230-4502-9a48-660f9afd45b1
+
+
 
