@@ -32,3 +32,15 @@ https://github.com/user-attachments/assets/7320647c-7230-4502-9a48-660f9afd45b1
 
 
 
+# My PowerBI Dashboard
+
+This is a link to my live PowerBI dashboard. Click the image below to open it:
+
+[![PowerBI Dashboard](Overview.png)](https://app.powerbi.com/groups/me/reports/5b762f2d-4ce9-4210-814d-535e6fa55003/f358d71266e42344d5f5?experience=power-bi)
+
+[![PowerBI Dashboard](Athletes.png)](https://app.powerbi.com/groups/me/reports/5b762f2d-4ce9-4210-814d-535e6fa55003/f358d71266e42344d5f5?experience=power-bi)
+
+[![PowerBI Dashboard](Country.png)](https://app.powerbi.com/groups/me/reports/5b762f2d-4ce9-4210-814d-535e6fa55003/f358d71266e42344d5f5?experience=power-bi)
+---
+
+
